@@ -12,6 +12,7 @@ import java.util.Scanner;
 
             String adjective2;
             String verb1;
+
             String adjective3;
 
             System.out.print("Enter an adjective (description): ");
