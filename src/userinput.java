@@ -23,6 +23,7 @@ public class userinput {
                        }
 
  System.out.println(" And by the fact that he is  " +age + " years old");
+                       scanner.close();
 
 
 
