@@ -19,7 +19,7 @@ char currency = '$';
         System.out.println("how much do you buy each ?  " + currency);
         price= scanner.nextDouble();
         double total = price * quantity;
-        System.out.println("Thank you for buying our items your total price is  "+currency+ total);
+        System.out.println("Thank you for buying our items your total price is  "+currency  + total);
 
 
 
