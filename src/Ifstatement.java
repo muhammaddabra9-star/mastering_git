@@ -48,6 +48,8 @@ System.out.println("how old are you?");
         System.out.println("Are you a student true /false");
         boolean isStudent = scanner.nextBoolean();
 
+
+
         if (isStudent){
             System.out.println("ENROLLMENT STATUS: he is eigible");
 
