@@ -1,13 +1,16 @@
+//code from JAVA FOR DUMMIES
 /*
-public class JavaForDummies {
+public class Robot {
 
     // a program to get a robot to fix an alternator.
     //A method’s declaration tells the computer what happens if you call the method
     //into action.
+
+
     void  fixTheAlternator(){
 
         driveInto(car, bay);
-lift (hood);
+lift (hood/bonnet );
 get (Wrench);
 loosen (AlternatorlBelt);
 
@@ -21,7 +24,7 @@ loosen (AlternatorlBelt);
 
 
 
-/
+
     }
 }
 */

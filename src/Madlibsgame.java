@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
     public class Madlibsgame {
+
         public static void main(String[] args) {
-
-            // MAD LIBS GAME
-
             Scanner scanner = new Scanner(System.in);
 
             String adjective1;
@@ -14,6 +12,10 @@ import java.util.Scanner;
             String verb1;
 
             String adjective3;
+
+            // MAD LIBS GAME
+
+
 
             System.out.print("Enter an adjective (description): ");
             adjective1 = scanner.nextLine();
