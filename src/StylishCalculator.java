@@ -17,7 +17,7 @@
 
     public class StylishCalculator implements ActionListener {
 
-    // ================= TEXT FIELD =================
+    // =============== TEXT FIELD =================
 
     JTextField textField;
 

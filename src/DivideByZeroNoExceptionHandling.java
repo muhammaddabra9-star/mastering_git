@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class DivideByZeroNoExceptionHandling {
 
     public static int quotient(int numerator, int denominator) {
-        return numerator / denominator;// Possible divison by zero
+        return numerator / denominator;// Possible division by zero
     }
 
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class DivideByZeroNoExceptionHandling {
         System.out.print("Please enter an integer numerator");
         int numerator = scanner.nextInt();
         System.out.println("Please enter the second integer : denominator");
-        int denominator = scanner.nextInt();
+        int  denominator = scanner.nextInt();
 
 
         int result = quotient(numerator, denominator);
