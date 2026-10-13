@@ -78,6 +78,7 @@ public class CommissionEmployee  {
     public double earnings()
     {
         return commissionRate * totalSales;
+        
     }
 //public double newearnings(){return setTotalSales() * setCommissionRate()}
 
